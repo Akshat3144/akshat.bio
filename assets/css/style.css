@@ -184,7 +184,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
-  min-height: 110vh;
+  min-height: 115vh;
   align-items: center;
 }
 .home #particles-js {
